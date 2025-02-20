@@ -13,3 +13,5 @@ All tasks are provided by <a href="https://github.com/apohllo/nlp">apohllo</a>. 
 8. Neural Search
 9. Question Answering
 10. RAG
+## Technology stack
+- Python
