@@ -5,16 +5,14 @@ All tasks are provided by <a href="https://github.com/apohllo/nlp">apohllo</a>. 
 ## Exercises and Topics
 ### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab1/lab1_regexp.ipynb">1. Regular expressions</a><br>
 ### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab2/lab2_fts.ipynb">2. Full text search</a>
-
-2. Full text search
-3. Levenshtein distance
-4. Language modelling
-5. Classification
-6. Named entity recognition
-7. Classification and NER with LLMs
-8. Neural Search
-9. Question Answering
-10. RAG
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab3/lab3_levenshtein.ipynb">3. Levenshtein distance</a>
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab4/lab4_lm.ipynb">4. Language modelling</a>
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab5/lab5_classification.ipynb">5. Classification</a>
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab6/lab6_ner.ipynb">6. Named entity recognition</a>
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab7/lab7_clsssification_ner_llm.ipynb">7. Classification and NER with LLMs</a>
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab8/lab8_neural.ipynb">8. Neural Search</a>
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab9/lab9_qa.ipynb">9. Question Answering</a>
+### <a href="https://github.com/bjam24/agh-natural-language-processing/blob/main/Lab10/lab10_rag.ipynb">10. RAG</a>
 ## Technology stack
 - Python
 - NumPy, Pandas
