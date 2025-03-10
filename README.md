@@ -15,3 +15,9 @@ All tasks are provided by <a href="https://github.com/apohllo/nlp">apohllo</a>. 
 10. RAG
 ## Technology stack
 - Python
+- NumPy, Pandas
+- Scikit-learn
+- ElasticSearch
+- Hugging Face Transformers
+- SpaCy
+- NLTK
